@@ -1,0 +1,152 @@
+{
+  "sunset_villa": {
+    "name": "Sunset Villa",
+    "location": "Malibu",
+    "wifi": {"ssid": "SunsetVibes2024", "password": "beach123"},
+    "checkin": "3:00 PM – Smart lock code sent via SMS",
+    "checkout": "11:00 AM – Leave keys on counter",
+    "parking": "Private driveway, fits 2 cars",
+    "house_rules": "No smoking, no parties, quiet hours 10 PM",
+    "host": {"name": "Maria", "phone": "310-555-0101"}
+  },
+  "downtown_loft": {
+    "name": "Downtown Loft",
+    "location": "Austin",
+    "wifi": {"ssid": "LoftLife_5G", "password": "austin456"},
+    "checkin": "4:00 PM – Key in lockbox, code: 7890",
+    "checkout": "12:00 PM – Return key to lockbox",
+    "parking": "Garage spot #14, use fob on key ring",
+    "house_rules": "No smoking, pets OK ($50 fee), quiet hours 11 PM",
+    "host": {"name": "Jake", "phone": "512-555-0202"}
+  },
+  "lakeside_cabin": {
+    "name": "Lakeside Cabin",
+    "location": "Lake Tahoe",
+    "wifi": {"ssid": "LakesideGuest", "password": "tahoe789"},
+    "checkin": "3:00 PM – Key under mat, code 4521",
+    "checkout": "10:00 AM – Lock door and leave key in lockbox",
+    "parking": "Gravel lot, 2 spaces",
+    "house_rules": "No smoking, no pets, quiet hours 9 PM",
+    "host": {"name": "Tom", "phone": "530-555-0303"}
+  },
+  "garden_cottage": {
+    "name": "Garden Cottage",
+    "location": "Charleston",
+    "wifi": {"ssid": "GardenCottage_WiFi", "password": "charleston22"},
+    "checkin": "4:00 PM – Key in mailbox, code: 3344",
+    "checkout": "11:00 AM – Leave key on kitchen table",
+    "parking": "Street parking, permit in drawer",
+    "house_rules": "No smoking, no parties, quiet hours 10 PM",
+    "host": {"name": "Sarah", "phone": "843-555-0404"}
+  },
+  "urban_studio": {
+    "name": "Urban Studio",
+    "location": "Chicago",
+    "wifi": {"ssid": "UrbanStudio_2.4", "password": "chicago99"},
+    "checkin": "3:00 PM – Building code 8821, apt key in lockbox 5566",
+    "checkout": "12:00 PM – Return key to lockbox",
+    "parking": "Paid street or garage on Wabash ($25/day)",
+    "house_rules": "No smoking, no pets, quiet hours 10 PM",
+    "host": {"name": "David", "phone": "312-555-0505"}
+  },
+  "mountain_retreat": {
+    "name": "Mountain Retreat",
+    "location": "Aspen",
+    "wifi": {"ssid": "MountainRetreat_Guest", "password": "aspen2024"},
+    "checkin": "4:00 PM – Smart lock, code sent 24h before",
+    "checkout": "10:00 AM – Set thermostat to 60°F, lock door",
+    "parking": "Heated garage, 2 spaces",
+    "house_rules": "No smoking, no parties, quiet hours 10 PM",
+    "host": {"name": "Lisa", "phone": "970-555-0606"}
+  },
+  "beach_house": {
+    "name": "Beach House",
+    "location": "Miami Beach",
+    "wifi": {"ssid": "BeachHouse_Guest", "password": "miami777"},
+    "checkin": "4:00 PM – Lockbox on porch, code: 9090",
+    "checkout": "11:00 AM – Strip beds, start dishwasher, lock up",
+    "parking": "Driveway, 1 car; street for second",
+    "house_rules": "No smoking indoors, no parties, quiet hours 11 PM",
+    "host": {"name": "Carlos", "phone": "305-555-0707"}
+  },
+  "desert_oasis": {
+    "name": "Desert Oasis",
+    "location": "Scottsdale",
+    "wifi": {"ssid": "DesertOasis_5G", "password": "scottsdale88"},
+    "checkin": "3:00 PM – Keypad code: 6789",
+    "checkout": "11:00 AM – Close windows, lock door",
+    "parking": "Carport + driveway",
+    "house_rules": "No smoking, no pets, quiet hours 10 PM",
+    "host": {"name": "Ana", "phone": "480-555-0808"}
+  },
+  "harbor_view_condo": {
+    "name": "Harbor View Condo",
+    "location": "San Diego",
+    "wifi": {"ssid": "HarborView_Guest", "password": "sandiego55"},
+    "checkin": "4:00 PM – Concierge hands key, ID required",
+    "checkout": "11:00 AM – Return key to concierge",
+    "parking": "Underground spot #B-12, remote in drawer",
+    "house_rules": "No smoking, no parties, quiet hours 10 PM",
+    "host": {"name": "Mike", "phone": "619-555-0909"}
+  },
+  "vineyard_guesthouse": {
+    "name": "Vineyard Guesthouse",
+    "location": "Napa",
+    "wifi": {"ssid": "VineyardGuest", "password": "napa444"},
+    "checkin": "4:00 PM – Key in barrel by gate, code: 2211",
+    "checkout": "11:00 AM – Leave key in barrel",
+    "parking": "Gravel area next to main house",
+    "house_rules": "No smoking, no pets, quiet hours 9 PM",
+    "host": {"name": "Elena", "phone": "707-555-1010"}
+  },
+  "boston_brownstone": {
+    "name": "Boston Brownstone",
+    "location": "Boston",
+    "wifi": {"ssid": "Brownstone_Guest", "password": "boston333"},
+    "checkin": "3:00 PM – Key in lockbox, code: 7788",
+    "checkout": "11:00 AM – Leave key in lockbox",
+    "parking": "Street (resident permit in drawer) or paid lot on Comm Ave",
+    "house_rules": "No smoking, no parties, quiet hours 10 PM",
+    "host": {"name": "James", "phone": "617-555-1111"}
+  },
+  "seattle_loft": {
+    "name": "Seattle Loft",
+    "location": "Seattle",
+    "wifi": {"ssid": "SeattleLoft_5G", "password": "seattle666"},
+    "checkin": "4:00 PM – Smart lock code in app",
+    "checkout": "12:00 PM – Lock door, code expires at 1 PM",
+    "parking": "One assigned spot in building garage, sticker on fridge",
+    "house_rules": "No smoking, pets OK ($75 fee), quiet hours 11 PM",
+    "host": {"name": "Priya", "phone": "206-555-1212"}
+  },
+  "nashville_bungalow": {
+    "name": "Nashville Bungalow",
+    "location": "Nashville",
+    "wifi": {"ssid": "NashvilleBungalow", "password": "nashville99"},
+    "checkin": "4:00 PM – Lockbox on fence, code: 4545",
+    "checkout": "11:00 AM – Key back in lockbox",
+    "parking": "Driveway, 2 cars",
+    "house_rules": "No smoking, no parties, quiet hours 11 PM",
+    "host": {"name": "Blake", "phone": "615-555-1313"}
+  },
+  "denver_highlands": {
+    "name": "Denver Highlands",
+    "location": "Denver",
+    "wifi": {"ssid": "Highlands_Guest", "password": "denver2024"},
+    "checkin": "3:00 PM – Keypad: 3344",
+    "checkout": "11:00 AM – Turn off heat/AC, lock door",
+    "parking": "Street (free), or alley spot behind fence",
+    "house_rules": "No smoking, no pets, quiet hours 10 PM",
+    "host": {"name": "Ryan", "phone": "303-555-1414"}
+  },
+  "savannah_carriage_house": {
+    "name": "Savannah Carriage House",
+    "location": "Savannah",
+    "wifi": {"ssid": "CarriageHouse_Guest", "password": "savannah77"},
+    "checkin": "4:00 PM – Key in planter by steps",
+    "checkout": "11:00 AM – Key in planter",
+    "parking": "Brick driveway behind main house",
+    "house_rules": "No smoking, no parties, quiet hours 10 PM",
+    "host": {"name": "Georgia", "phone": "912-555-1515"}
+  }
+}
