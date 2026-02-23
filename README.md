@@ -186,11 +186,8 @@ Run from the **project root** with your venv activated. The agent is loaded as `
 
 ### Session state (State tab)
 
-*Paste your screenshot of the State tab showing `current_property` after the guest says they’re at a property.*
+<img width="953" height="467" alt="image" src="https://github.com/user-attachments/assets/599d7644-f454-4439-8108-85d02b722024" />
 
-<!-- INSERT IMAGE: e.g. assets/adk-ui-state.png -->
-
-![ADK Developer UI - State](assets/adk-ui-state.png)
 
 ---
 
