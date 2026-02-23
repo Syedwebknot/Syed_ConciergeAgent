@@ -201,6 +201,11 @@ Run from the **project root** with your venv activated. The agent is loaded as `
 
 <img width="953" height="445" alt="image" src="https://github.com/user-attachments/assets/27734237-0b6d-4ff1-a85d-dd0d3d3fe73f" />
 
+---
+### Follow-up conversation
+
+<img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/c6c60093-e753-43ec-845b-02c4e4623e40" />
+
 ## 🛠 Tech Stack
 
 | Layer | Technology |
