@@ -197,6 +197,9 @@ Run from the **project root** with your venv activated. The agent is loaded as `
 
 
 ---
+### SQLlite Database
+
+<img width="953" height="445" alt="image" src="https://github.com/user-attachments/assets/27734237-0b6d-4ff1-a85d-dd0d3d3fe73f" />
 
 ## 🛠 Tech Stack
 
