@@ -207,9 +207,9 @@ Run from the **project root** with your venv activated. The agent is loaded as `
 ---
 ### Callback plugin (before_tool / after_model)
 
-*Paste your screenshot here (e.g. save as `assets/callback-plugin-logs.png` and use the path below), or replace the path with your image.*
 
-<img width="954" height="475" alt="ConciergeLoggingPlugin and terminal logs showing [before_tool] and [after_model]" src="assets/callback-plugin-logs.png" />
+<img width="716" height="445" alt="image" src="https://github.com/user-attachments/assets/5024c2e9-9765-4176-a38d-c4c1227c60e0" />
+
 
 ---
 
