@@ -23,6 +23,10 @@ env/
 logs/
 *.session.json
 
+# ADK local state (session DB, etc.)
+concierge/.adk/
+.adk/
+
 # Testing / coverage
 testing/
 .pytest_cache/
