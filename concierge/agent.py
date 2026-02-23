@@ -1,10 +1,12 @@
 from google.adk.agents import Agent
+from google.adk.apps import App
 from google.adk.models import Gemini
 from google.adk.utils.instructions_utils import inject_session_state
 
 from concierge.property_agent import property_info_agent
 from concierge.escalation_agent import escalation_agent
 from concierge.tools.property_tools import set_guest_property
+from concierge.plugins import ConciergeLoggingPlugin
 
 
 model = Gemini(model="gemini-2.5-flash")
@@ -38,4 +40,11 @@ root_agent = Agent(
     instruction=build_root_instruction,
     tools=[set_guest_property],
     sub_agents=[property_info_agent, escalation_agent],
+)
+
+# App with plugin for callbacks (before_tool, after_model). Loader uses app when present.
+app = App(
+    name="concierge",
+    root_agent=root_agent,
+    plugins=[ConciergeLoggingPlugin()],
 )
