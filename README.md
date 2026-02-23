@@ -177,33 +177,34 @@ Run from the **project root** with your venv activated. The agent is loaded as `
 
 ### ADK Developer UI — Chat and trace
 
-*Paste your screenshot of the ADK web UI showing a conversation (e.g. WiFi question, welcome, or escalation).*
+<img width="954" height="475" alt="image" src="https://github.com/user-attachments/assets/695543d5-acbb-4e6a-9597-0a5758cbb632" />
 
-<!-- INSERT IMAGE: e.g. assets/adk-ui-chat.png -->
 
-![ADK Developer UI - Chat](assets/adk-ui-chat.png)
+
 
 ---
 
 ### Session state (State tab)
 
-*Paste your screenshot of the State tab showing `current_property` after the guest says they’re at a property.*
+<img width="953" height="467" alt="image" src="https://github.com/user-attachments/assets/599d7644-f454-4439-8108-85d02b722024" />
 
-<!-- INSERT IMAGE: e.g. assets/adk-ui-state.png -->
-
-![ADK Developer UI - State](assets/adk-ui-state.png)
 
 ---
 
-### Tool calls (Trace)
+### Escalation (Escalation Agent + Long-Running Tool)
 
-*Paste your screenshot of the Trace panel showing `get_property_details`, `set_guest_property`, or `create_support_ticket`.*
+<img width="959" height="465" alt="image" src="https://github.com/user-attachments/assets/26775f05-a02f-4305-abdd-0a5ecf6ea936" />
 
-<!-- INSERT IMAGE: e.g. assets/adk-ui-trace.png -->
-
-![ADK Developer UI - Trace](assets/adk-ui-trace.png)
 
 ---
+### SQLlite Database
+
+<img width="953" height="445" alt="image" src="https://github.com/user-attachments/assets/27734237-0b6d-4ff1-a85d-dd0d3d3fe73f" />
+
+---
+### Follow-up conversation
+
+<img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/c6c60093-e753-43ec-845b-02c4e4623e40" />
 
 ## 🛠 Tech Stack
 
