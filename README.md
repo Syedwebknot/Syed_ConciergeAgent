@@ -191,13 +191,10 @@ Run from the **project root** with your venv activated. The agent is loaded as `
 
 ---
 
-### Tool calls (Trace)
+### Escalation (Escalation Agent + Long-Running Tool)
 
-*Paste your screenshot of the Trace panel showing `get_property_details`, `set_guest_property`, or `create_support_ticket`.*
+<img width="959" height="465" alt="image" src="https://github.com/user-attachments/assets/26775f05-a02f-4305-abdd-0a5ecf6ea936" />
 
-<!-- INSERT IMAGE: e.g. assets/adk-ui-trace.png -->
-
-![ADK Developer UI - Trace](assets/adk-ui-trace.png)
 
 ---
 
