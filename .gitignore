@@ -13,8 +13,6 @@ env/
 
 # Environment variables (keep .env.sample / .env.example for docs)
 .env
-.env.*
-!.env.example
 
 
 
