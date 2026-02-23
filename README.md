@@ -178,10 +178,9 @@ Run from the **project root** with your venv activated. The agent is loaded as `
 ### ADK Developer UI — Chat and trace
 
 *Paste your screenshot of the ADK web UI showing a conversation (e.g. WiFi question, welcome, or escalation).*
+<img width="949" height="461" alt="image" src="https://github.com/user-attachments/assets/eff898ba-15f3-4aca-8e42-9ffa463c4000" />
 
-<!-- INSERT IMAGE: e.g. assets/adk-ui-chat.png -->
 
-![ADK Developer UI - Chat](assets/adk-ui-chat.png)
 
 ---
 
